@@ -27,7 +27,7 @@ author:
   name             : "Yvonne Zhou"
   pronouns         : # example: "she/her"  
   bio              : "" # "Short biography for the left-hand sidebar"
-  location         : "Nashville"
+  location         : "Nashville, TN"
   employer         : "Vanderbilt University"
   uri              : # URL
   email            : "yuefan.zhou@vanderbilt.edu" 
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=n6iX_fcAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "https://orcid.org/yourorcidurl"
